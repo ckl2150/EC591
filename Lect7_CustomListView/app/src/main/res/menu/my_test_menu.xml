@@ -3,27 +3,43 @@
       xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/mnu_zero"
-        android:title="Menu0"
+        android:id="@+id/mnu_beam"
+        android:title="Beam me up"
         android:icon ="@drawable/ic_local_florist_black_24dp"
         app:showAsAction="ifRoom">
     </item>
 
 
     <item
-        android:id="@+id/mnu_one"
-        android:title="Menu1"
-        android:icon ="@drawable/minispocksbrain_24x24"
+        android:id="@+id/mnu_nuclear"
+        android:title="Nuclear Wessels"
+        android:icon ="@drawable/ic_local_florist_black_24dp"
         app:showAsAction="ifRoom">
     </item>
 
 
     <item
-        android:id="@+id/mnu_two"
-        android:title="Menu2"
+        android:id="@+id/mnu_phasers"
+        android:title="Phasers on Stun"
         android:icon ="@drawable/ic_card_giftcard_black_24dp"
         app:showAsAction="ifRoom">
     </item>
+
+    <item
+        android:id="@+id/mnu_live_long"
+        android:title="Live Long and Prosper"
+        android:icon ="@drawable/ic_card_giftcard_black_24dp"
+        app:showAsAction="ifRoom">
+    </item>
+
+
+    <item
+        android:id="@+id/mnu_khan"
+        android:title="Khan!!!"
+        android:icon ="@drawable/ic_card_giftcard_black_24dp"
+        app:showAsAction="ifRoom">
+    </item>
+
 
 
 </menu>

@@ -8,11 +8,18 @@
         <item>Plato\'s Step Children</item>
         <item>The Naked Time</item>
         <item>The Trouble With Tribbles</item>
+    </string-array>
+
+    <string-array name="menu_options">
         <item>Beam Me Up</item>
         <item>Nuclear Wessels</item>
         <item>Phasers On Stun</item>
         <item>Live Long and Prosper</item>
         <item>Kahn!!!</item>
+    </string-array>
+
+    <string-array name="menu_actions">
+        <item>http://shop.startrek.com/info.php</item>
     </string-array>
 
     <string-array name="episode_descriptions">
@@ -38,11 +45,6 @@
         <item>http://www.imdb.com/title/tt0708443/</item>
         <item>http://www.imdb.com/title/tt0708473/</item>
         <item>http://www.imdb.com/title/tt0708480/</item>
-        <item>http://shop.startrek.com/info.php</item>
-        <item>none</item>
-        <item>none</item>
-        <item>none</item>
-        <item>none</item>
     </string-array>
 
 
